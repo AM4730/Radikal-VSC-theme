@@ -1,0 +1,23 @@
+{
+  "name": "Radikal",
+  "displayName": "Radikal",
+  "description": "A VSCode dark theme",
+  "publisher": "Lemz42",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "icon": "images/Lemz.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Radikal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lemz-color-theme.json"
+      }
+    ]
+  }
+}
