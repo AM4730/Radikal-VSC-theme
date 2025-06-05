@@ -6,7 +6,7 @@
 
 ## Screenshot
 
-![Screenshot](images/screen_radikal.webp)
+![Screenshot](https://github.com/AM4730/Radikal-VSC-theme/blob/master/images/screen_radikal.webp?raw=true)
 
 ## License
 
