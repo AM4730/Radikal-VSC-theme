@@ -1,8 +1,6 @@
 # Radikal README
 
-## A VSCode dark theme
-
-- Contact me: [lemz42@outlook.com](mailto:lemz42@outlook.com)
+## *Just a VSCode dark theme*
 
 ## Screenshot
 

@@ -3,7 +3,7 @@
   "displayName": "Radikal",
   "description": "A VSCode dark theme",
   "publisher": "Lemz42",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.99.0"
   },
@@ -20,7 +20,7 @@
       {
         "label": "Radikal",
         "uiTheme": "vs-dark",
-        "path": "./themes/Lemz-color-theme.json"
+        "path": "./themes/Radikal-color-theme.json"
       }
     ]
   }
